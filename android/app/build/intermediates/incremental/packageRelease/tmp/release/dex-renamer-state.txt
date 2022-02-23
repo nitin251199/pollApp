@@ -1,0 +1,4 @@
+#Thu Jan 20 10:45:59 IST 2022
+base.0=/Users/deepaksagar/Projects/pollnew/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
