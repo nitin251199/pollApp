@@ -5,10 +5,10 @@ library {
   maven_library {
     groupId: "com.facebook.react"
     artifactId: "react-native"
-    version: "0.66.3"
+    version: "0.67.2"
   }
   digests {
-    sha256: "\25070B\a=\231t\355Y]\260Bz.\325]\337\036\206\204uw\315\031\247\271\303\313$\200B"
+    sha256: "96\227\255\n\233\376`Oo$\234\262:\274Y\v2\255?\263l\374\214]\2062yQ\270/\256"
   }
 }
 library {
@@ -125,20 +125,20 @@ library {
   maven_library {
     groupId: "com.squareup.okhttp3"
     artifactId: "okhttp"
-    version: "4.9.1"
+    version: "4.9.2"
   }
   digests {
-    sha256: "j\375\330\363_N\266\r\371e\302\220\372:\317)D?\251\206TQ\023\320r\233\204a\366W\037\217"
+    sha256: ";.\341\267h\301\337(\303\r/\346\263\215\332M,Q\222\020\343\f\243\322yPa\214V<\222\336"
   }
 }
 library {
   maven_library {
     groupId: "com.squareup.okhttp3"
     artifactId: "okhttp-urlconnection"
-    version: "4.9.1"
+    version: "4.9.2"
   }
   digests {
-    sha256: "\300\246[\260?\2041<bg\035\t\333\322<K\240\305\b-w\257\310l\201:\270l?\244\000a"
+    sha256: "\016\0349\252\211f\217\226%\311 z\315J\207\204\334\206\212\320\325\242\001\035\236\025\340gO;}\021"
   }
 }
 library {

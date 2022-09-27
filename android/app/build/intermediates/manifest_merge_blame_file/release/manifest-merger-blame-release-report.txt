@@ -6,129 +6,138 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml
+8-->G:\pollapp\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml
+9-->G:\pollapp\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:5:5-67
-11-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:5:22-64
-12    <uses-permission android:name="android.permission.CAMERA" />
-12-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:6:5-65
-12-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:6:22-62
-13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:7:5-80
-13-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:7:22-78
-14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:8:5-78
-14-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:8:22-76
-15
-16    <uses-feature
-16-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:9:5-85
-17        android:name="android.hardware.camera"
-17-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:9:19-57
-18        android:required="false" />
-18-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:9:58-82
-19    <uses-feature android:name="android.hardware.camera.autofocus" />
-19-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:10:5-69
-19-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:10:19-67
-20    <uses-feature
-20-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:11:5-91
-21        android:name="android.hardware.camera.front"
-21-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:11:19-63
-22        android:required="false" />
-22-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:11:64-88
-23
-24    <uses-permission android:name="android.permission.FLASHLIGHT" />
-24-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:12:5-68
-24-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:12:22-66
-25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-25-->[:react-native-community_netinfo] /Users/deepaksagar/Projects/pollnew/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-79
-25-->[:react-native-community_netinfo] /Users/deepaksagar/Projects/pollnew/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-76
-26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-26-->[:react-native-community_netinfo] /Users/deepaksagar/Projects/pollnew/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-76
-26-->[:react-native-community_netinfo] /Users/deepaksagar/Projects/pollnew/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-73
-27
-28    <queries>
-28-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-13:15
-29        <intent>
-29-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-12:18
-30            <action android:name="android.media.action.IMAGE_CAPTURE" />
-30-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-73
-30-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:21-70
-31        </intent>
-32    </queries>
-33
-34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-34-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-81
-34-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:22-78
-35
-36    <application
-36-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:14:5-32:19
-37        android:name="com.dummynew.MainApplication"
-37-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:15:7-38
-38        android:allowBackup="false"
-38-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:19:7-34
-39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-39-->[androidx.core:core:1.6.0] /Users/deepaksagar/.gradle/caches/transforms-3/5efa136d6b7a2c594211658eacead3c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
-40        android:icon="@mipmap/ic_launcher"
-40-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:17:7-41
-41        android:label="@string/app_name"
-41-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:16:7-39
-42        android:roundIcon="@mipmap/ic_launcher_round"
-42-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:18:7-52
-43        android:theme="@style/AppTheme" >
-43-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:20:7-38
-44        <activity
-44-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:21:7-31:18
-45            android:name="com.dummynew.MainActivity"
-45-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:22:9-37
-46            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-46-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:24:9-86
-47            android:label="@string/app_name"
-47-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:23:9-41
-48            android:launchMode="singleTask"
-48-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:25:9-40
-49            android:screenOrientation="portrait"
-49-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:26:52-88
-50            android:windowSoftInputMode="adjustResize" >
-50-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:26:9-51
-51            <intent-filter>
-51-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:27:9-30:25
-52                <action android:name="android.intent.action.MAIN" />
-52-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:28:13-65
-52-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:28:21-62
-53
-54                <category android:name="android.intent.category.LAUNCHER" />
-54-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:29:13-73
-54-->/Users/deepaksagar/Projects/pollnew/android/app/src/main/AndroidManifest.xml:29:23-70
-55            </intent-filter>
-56        </activity>
+11-->G:\pollapp\android\app\src\main\AndroidManifest.xml:5:5-67
+11-->G:\pollapp\android\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <uses-feature android:name="android.hardware.camera.any" />
+13-->G:\pollapp\android\app\src\main\AndroidManifest.xml:6:5-64
+13-->G:\pollapp\android\app\src\main\AndroidManifest.xml:6:19-61
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->G:\pollapp\android\app\src\main\AndroidManifest.xml:7:5-65
+15-->G:\pollapp\android\app\src\main\AndroidManifest.xml:7:22-62
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->G:\pollapp\android\app\src\main\AndroidManifest.xml:8:5-80
+16-->G:\pollapp\android\app\src\main\AndroidManifest.xml:8:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->G:\pollapp\android\app\src\main\AndroidManifest.xml:9:5-78
+17-->G:\pollapp\android\app\src\main\AndroidManifest.xml:9:22-76
+18
+19    <uses-feature
+19-->G:\pollapp\android\app\src\main\AndroidManifest.xml:10:5-85
+20        android:name="android.hardware.camera"
+20-->G:\pollapp\android\app\src\main\AndroidManifest.xml:10:19-57
+21        android:required="false" />
+21-->G:\pollapp\android\app\src\main\AndroidManifest.xml:10:58-82
+22    <uses-feature android:name="android.hardware.camera.autofocus" />
+22-->G:\pollapp\android\app\src\main\AndroidManifest.xml:11:5-69
+22-->G:\pollapp\android\app\src\main\AndroidManifest.xml:11:19-67
+23    <uses-feature
+23-->G:\pollapp\android\app\src\main\AndroidManifest.xml:12:5-91
+24        android:name="android.hardware.camera.front"
+24-->G:\pollapp\android\app\src\main\AndroidManifest.xml:12:19-63
+25        android:required="false" />
+25-->G:\pollapp\android\app\src\main\AndroidManifest.xml:12:64-88
+26
+27    <uses-permission android:name="android.permission.FLASHLIGHT" />
+27-->G:\pollapp\android\app\src\main\AndroidManifest.xml:13:5-68
+27-->G:\pollapp\android\app\src\main\AndroidManifest.xml:13:22-66
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->G:\pollapp\android\app\src\main\AndroidManifest.xml:14:5-80
+28-->G:\pollapp\android\app\src\main\AndroidManifest.xml:14:22-77
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->G:\pollapp\android\app\src\main\AndroidManifest.xml:15:5-81
+29-->G:\pollapp\android\app\src\main\AndroidManifest.xml:15:22-78
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->[:react-native-community_netinfo] G:\pollapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+30-->[:react-native-community_netinfo] G:\pollapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+31-->[:react-native-community_netinfo] G:\pollapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-76
+31-->[:react-native-community_netinfo] G:\pollapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-73
+32
+33    <queries>
+33-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:15
+34        <intent>
+34-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:18
+35            <action android:name="android.media.action.IMAGE_CAPTURE" />
+35-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-73
+35-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:21-70
+36        </intent>
+37    </queries>
+38
+39    <application
+39-->G:\pollapp\android\app\src\main\AndroidManifest.xml:17:5-36:19
+40        android:name="com.dummynew.MainApplication"
+40-->G:\pollapp\android\app\src\main\AndroidManifest.xml:18:7-38
+41        android:allowBackup="false"
+41-->G:\pollapp\android\app\src\main\AndroidManifest.xml:22:7-34
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.6.0] C:\Users\nv251\.gradle\caches\transforms-3\5efa136d6b7a2c594211658eacead3c1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+43        android:icon="@mipmap/ic_launcher"
+43-->G:\pollapp\android\app\src\main\AndroidManifest.xml:20:7-41
+44        android:label="@string/app_name"
+44-->G:\pollapp\android\app\src\main\AndroidManifest.xml:19:7-39
+45        android:roundIcon="@mipmap/ic_launcher_round"
+45-->G:\pollapp\android\app\src\main\AndroidManifest.xml:21:7-52
+46        android:theme="@style/AppTheme" >
+46-->G:\pollapp\android\app\src\main\AndroidManifest.xml:23:7-38
+47        <activity
+47-->G:\pollapp\android\app\src\main\AndroidManifest.xml:24:7-35:18
+48            android:name="com.dummynew.MainActivity"
+48-->G:\pollapp\android\app\src\main\AndroidManifest.xml:25:9-37
+49            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+49-->G:\pollapp\android\app\src\main\AndroidManifest.xml:27:9-86
+50            android:label="@string/app_name"
+50-->G:\pollapp\android\app\src\main\AndroidManifest.xml:26:9-41
+51            android:largeHeap="true"
+51-->G:\pollapp\android\app\src\main\AndroidManifest.xml:29:9-33
+52            android:launchMode="singleTask"
+52-->G:\pollapp\android\app\src\main\AndroidManifest.xml:28:9-40
+53            android:screenOrientation="portrait"
+53-->G:\pollapp\android\app\src\main\AndroidManifest.xml:30:52-88
+54            android:windowSoftInputMode="adjustResize" >
+54-->G:\pollapp\android\app\src\main\AndroidManifest.xml:30:9-51
+55            <intent-filter>
+55-->G:\pollapp\android\app\src\main\AndroidManifest.xml:31:9-34:25
+56                <action android:name="android.intent.action.MAIN" />
+56-->G:\pollapp\android\app\src\main\AndroidManifest.xml:32:13-65
+56-->G:\pollapp\android\app\src\main\AndroidManifest.xml:32:21-62
 57
-58        <provider
-58-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-26:20
-59            android:name="androidx.core.content.FileProvider"
-59-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-62
-60            android:authorities="com.dummynew.provider"
-60-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-60
-61            android:exported="false"
-61-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-37
-62            android:grantUriPermissions="true" >
-62-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-47
-63            <meta-data
-63-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:58
-64                android:name="android.support.FILE_PROVIDER_PATHS"
-64-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
-65                android:resource="@xml/provider_paths" />
-65-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-55
-66        </provider>
-67
-68        <activity
-68-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-30:72
-69            android:name="com.yalantis.ucrop.UCropActivity"
-69-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-60
-70            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-70-->[:react-native-image-crop-picker] /Users/deepaksagar/Projects/pollnew/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-69
-71    </application>
-72
-73</manifest>
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->G:\pollapp\android\app\src\main\AndroidManifest.xml:33:13-73
+58-->G:\pollapp\android\app\src\main\AndroidManifest.xml:33:23-70
+59            </intent-filter>
+60        </activity>
+61
+62        <provider
+62-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-26:20
+63            android:name="androidx.core.content.FileProvider"
+63-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-62
+64            android:authorities="com.dummynew.provider"
+64-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-60
+65            android:exported="false"
+65-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-37
+66            android:grantUriPermissions="true" >
+66-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-47
+67            <meta-data
+67-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:58
+68                android:name="android.support.FILE_PROVIDER_PATHS"
+68-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-67
+69                android:resource="@xml/provider_paths" />
+69-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:17-55
+70        </provider>
+71
+72        <activity
+72-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:72
+73            android:name="com.yalantis.ucrop.UCropActivity"
+73-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-60
+74            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+74-->[:react-native-image-crop-picker] G:\pollapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-69
+75    </application>
+76
+77</manifest>
