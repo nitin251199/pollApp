@@ -349,14 +349,16 @@ export default class Question extends Component<Props> {
                 />
               ) : null}
 
-              <Text>{options[j].option_title}</Text>
+              <Text style={{ textAlign: "center" }}>
+                {options[j].option_title}
+              </Text>
             </TouchableOpacity>
           );
         }
         questions_html_arr.push(
           <Card style={card_class} key={i}>
             <Title style={styles.cardHeader}> {question_title} </Title>
-            <Card.Content>
+            <Card.Content style={{ paddingHorizontal: 10 }}>
               <View style={styles.linebox}>{options_html}</View>
             </Card.Content>
           </Card>
@@ -1381,18 +1383,19 @@ const styles = StyleSheet.create({
     borderBottomColor: "#f5f5f5",
   },
   linebox: {
-    flexDirection: "row",
+    flexDirection: "column",
     alignItems: "center",
-    justifyContent: "space-between",
+    justifyContent: "center",
+    width: "100%",
   },
   smile: {
-    marginTop: 30,
+    // marginTop: 30,
     marginBottom: 5,
     height: 50,
     width: 50,
   },
   smile_selected: {
-    marginTop: 30,
+    // marginTop: 30,
     marginBottom: 5,
     height: 50,
     width: 50,
@@ -1400,7 +1403,12 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   mojilist: {
+    flexDirection: "row",
+    marginTop: 30,
     alignItems: "center",
+    justifyContent: "space-between",
+    width: "70%",
+    // backgroundColor: "blue",
   },
   boxstyle: {
     flexDirection: "row",
