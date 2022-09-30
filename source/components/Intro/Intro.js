@@ -335,6 +335,7 @@ export default class Splash extends Component<Props> {
     //console.log('question_param',params);
     this.setState({ loading: true });
     let response = await ApiController.post("render_questions", params);
+    console.log("render_questions", params);
     this.setState({ loading: false });
     //console.log(response);
     if (response.success == 1) {

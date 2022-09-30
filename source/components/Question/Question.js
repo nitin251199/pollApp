@@ -1383,10 +1383,11 @@ const styles = StyleSheet.create({
     borderBottomColor: "#f5f5f5",
   },
   linebox: {
-    flexDirection: "column",
+    flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
+    justifyContent: "space-between",
     width: "100%",
+    marginTop: 30,
   },
   smile: {
     // marginTop: 30,
@@ -1403,11 +1404,10 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   mojilist: {
-    flexDirection: "row",
-    marginTop: 30,
+    flexDirection: "column",
     alignItems: "center",
     justifyContent: "space-between",
-    width: "70%",
+    // width: "100%",
     // backgroundColor: "blue",
   },
   boxstyle: {

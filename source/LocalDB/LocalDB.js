@@ -152,7 +152,7 @@ class LocalDB {
     let item = {};
     try {
       item = (await AsyncStorage.getItem("poll_data")) || null;
-      const userProfile = JSON.parse(item);
+      const userProfile = JSON.parse(item); 
       return userProfile;
     } catch (error) {
       console.warn(error.message);
