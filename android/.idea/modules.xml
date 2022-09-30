@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dummynew.iml" filepath="$PROJECT_DIR$/.idea/modules/dummynew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dummynew.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dummynew.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dummynew.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dummynew.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dummynew.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dummynew.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dummynew.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dummynew.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/213772801/dummynew.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/880508380/dummynew.react-native-community_geolocation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-830653023/dummynew.react-native-community_netinfo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-555690502/dummynew.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/472764461/dummynew.react-native-image-crop-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-325346517/dummynew.react-native-picker_picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-791259165/dummynew.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-853497925/dummynew.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-540306404/dummynew.react-native-vector-icons.unitTest.iml" />
+    </modules>
+  </component>
+</project>
