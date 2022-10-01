@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile2.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile2.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile3.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile3.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_logo.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_logo.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile4.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile4.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_bg.jpeg.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_bg.jpeg"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile1.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile1.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile6.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile6.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_source_images_smile5.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\source_images_smile5.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\pollapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\pollapp\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "G:\\pollapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    }
+]
