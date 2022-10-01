@@ -348,6 +348,12 @@ export default class Question extends Component<Props> {
                   source={require("../../images/smile5.png")}
                 />
               ) : null}
+              {options[j].option_emoji_id == 6 ? (
+                <Image
+                  style={mojiclass}
+                  source={require("../../images/smile6.png")}
+                />
+              ) : null}
 
               <Text style={{ textAlign: "center" }}>
                 {options[j].option_title}
@@ -617,7 +623,7 @@ export default class Question extends Component<Props> {
             let mojiclass = styles.smile;
             if (options[j].id == question.selected_option_id)
               mojiclass = styles.smile_selected;
-
+            console.log(">><<", options[j].option_emoji_id);
             options_html.push(
               <TouchableOpacity
                 key={j}
@@ -655,6 +661,12 @@ export default class Question extends Component<Props> {
                   <Image
                     style={mojiclass}
                     source={require("../../images/smile5.png")}
+                  />
+                ) : null}
+                {options[j].option_emoji_id == 6 ? (
+                  <Image
+                    style={mojiclass}
+                    source={require("../../images/smile6.png")}
                   />
                 ) : null}
 
