@@ -1239,7 +1239,8 @@ export default class Question extends Component<Props> {
                     source={require("../../images/logo.png")}
                   />
                   <Text style={{ fontWeight: "bold", color: "#000000" }}>
-                    सर्वे : <Text style={{ color: "#000000" }}>2021/10</Text>
+                    सर्वे :{" "}
+                    <Text style={{ color: "#000000" }}>2022 - 2023</Text>
                   </Text>
                 </View>
 
