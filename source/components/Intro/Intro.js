@@ -335,7 +335,7 @@ export default class Splash extends Component<Props> {
     //console.log('question_param',params);
     this.setState({ loading: true });
     let response = await ApiController.post("render_questions", params);
-    console.log("render_questions", params);
+    console.log("render_questions", response);
     this.setState({ loading: false });
     //console.log(response);
     if (response.success == 1) {
@@ -458,7 +458,7 @@ export default class Splash extends Component<Props> {
     this.setState({ loading: true });
     let response = await ApiController.post("render_questions_zone", params);
     this.setState({ loading: false });
-    //console.log(response);
+    console.log(response);
     if (response.success == 1) {
       await AsyncStorage.removeItem("poll_questions_data");
       await AsyncStorage.removeItem("user_zone_data");

@@ -349,7 +349,7 @@ export default class Question extends Component<Props> {
                 />
               ) : null}
 
-              <Text style={{  textAlign: "center" }}>
+              <Text style={{ textAlign: "center" }}>
                 {options[j].option_title}
               </Text>
             </TouchableOpacity>
@@ -1239,7 +1239,10 @@ export default class Question extends Component<Props> {
                     source={require("../../images/logo.png")}
                   />
                   <Text style={{ fontWeight: "bold", color: "#000000" }}>
-                    सर्वे : <Text style={{ color: "#000000" }}>2021/10</Text>
+                    {/* सर्वे :  */}
+                    <Text style={{ color: "#000000" }}>
+                      Karnataka 2022 - 2023
+                    </Text>
                   </Text>
                 </View>
 
@@ -1383,11 +1386,10 @@ const styles = StyleSheet.create({
     borderBottomColor: "#f5f5f5",
   },
   linebox: {
-    flexDirection: "row",
+    flexDirection: "column",
     alignItems: "center",
-    justifyContent: "space-between",
+    justifyContent: "center",
     width: "100%",
-    marginTop: 30,
   },
   smile: {
     // marginTop: 30,
@@ -1404,10 +1406,11 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   mojilist: {
-    flexDirection: "column",
+    flexDirection: "row",
+    marginTop: 30,
     alignItems: "center",
     justifyContent: "space-between",
-    // width: "100%",
+    width: "70%",
     // backgroundColor: "blue",
   },
   boxstyle: {
