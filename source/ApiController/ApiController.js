@@ -30,7 +30,7 @@ class Api {
     return this.func(route, params, "DELETE");
   }
   static hostname() {
-    const host = "https://pollfirstsurveys.com/karnataka/api";
+    const host = "https://up.pollfirstsurveys.com/api";
     return host;
   }
   static func = async (route, params, verb) => {
@@ -39,7 +39,7 @@ class Api {
         return encodeURIComponent(key) + "=" + encodeURIComponent(params[key]);
       })
       .join("&");
-    const host = "https://pollfirstsurveys.com/karnataka/api";
+    const host = "https://up.pollfirstsurveys.com/api";
     const url = `${host}/${route}`;
     console.log('url', url);
     let options = Object.assign(

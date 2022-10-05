@@ -1254,7 +1254,7 @@ export default class Question extends Component<Props> {
                   <Text style={{ fontWeight: "bold", color: "#000000" }}>
                     {/* सर्वे :  */}
                     <Text style={{ color: "#000000" }}>
-                      Karnataka 2022 - 2023
+                      Uttar Pradesh 2022 - 2023
                     </Text>
                   </Text>
                 </View>
