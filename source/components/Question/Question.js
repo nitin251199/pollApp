@@ -563,6 +563,7 @@ export default class Question extends Component<Props> {
 
   get_local_question = async () => {
     var question_data = await LocalDB.getAllQuestionsData();
+    // console.log('question_data', JSON.stringify(question_data));
     if (question_data !== null) {
       let questions_html_arr = [];
       let c = 1;
@@ -623,7 +624,7 @@ export default class Question extends Component<Props> {
             let mojiclass = styles.smile;
             if (options[j].id == question.selected_option_id)
               mojiclass = styles.smile_selected;
-            console.log(">><<", options[j].option_emoji_id);
+            // console.log(">><<", options[j].option_emoji_id);
             options_html.push(
               <TouchableOpacity
                 key={j}

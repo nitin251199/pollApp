@@ -64,7 +64,7 @@ class LocalDB {
     try {
       item = await AsyncStorage.getItem("user_zone_data");
       const userProfile = JSON.parse(item);
-      console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>", userProfile);
+      // console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>", userProfile);
       return userProfile;
     } catch (error) {
       console.warn(error.message);

@@ -1,9 +1,0 @@
-com/dummynew/MainActivity.java
- com.dummynew.MainActivity
-com/dummynew/BuildConfig.java
- com.dummynew.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
-com/dummynew/MainApplication.java
- com.dummynew.MainApplication
- com.dummynew.MainApplication$1

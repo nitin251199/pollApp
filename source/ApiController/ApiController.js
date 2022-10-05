@@ -41,7 +41,7 @@ class Api {
       .join("&");
     const host = "https://pollfirstsurveys.com/karnataka/api";
     const url = `${host}/${route}`;
-    
+    console.log('url', url);
     let options = Object.assign(
       { method: verb },
       searchParams ? { body: searchParams } : null
